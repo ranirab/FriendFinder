@@ -1,2 +1,2 @@
 # FriendFinder
-friend compatibility match
+Friend compatibility match using local server.
